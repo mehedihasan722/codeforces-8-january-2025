@@ -204,8 +204,7 @@ int n,m;
 void solve() 
 {
     read(n,m);
-    int cnt = 0;
-    int ans = 0;
+    int cnt = 0, ans = 0;
     FOR(n) {
         string s;
         read(s);
